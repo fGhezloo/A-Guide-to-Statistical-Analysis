@@ -1,1 +1,1 @@
-# A-Guide-to-Statistical-Analysis
+# A Guide to Statistical Analysis
